@@ -7,4 +7,10 @@ public class Main {
         System.out.println("Hello and welcome!");
         System.out.println("11111121");
     }
+
+    public static void doSomething(){
+        System.out.println("1");
+        System.out.println("2");
+        System.out.println("3");
+    }
 }
