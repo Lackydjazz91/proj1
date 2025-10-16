@@ -7,6 +7,7 @@ public class Main {
         System.out.println("--------");
         System.out.println("Hello and welcome!");
         System.out.println("11111121");
+        System.out.println("-------");
     }
 
     public static void doSomething(){
