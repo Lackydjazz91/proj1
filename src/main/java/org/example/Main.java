@@ -6,11 +6,12 @@ public class Main {
     public static void main(String[] args) {
         System.out.println("Hello and welcome!");
         System.out.println("11111121");
+        System.out.println("-------");
     }
 
     public static void doSomething(){
         System.out.println("1");
-        System.out.println("2");
-        System.out.println("3");
+        System.out.println("0");
+        System.out.println("0");
     }
 }
